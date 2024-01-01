@@ -12,15 +12,13 @@
 * Language
   * Kotlin
 * Framework
-  * Spring Boot 3.0.1
+  * Spring Boot 2.7.10
 * Packaging
   * Jar
 * Java
-  * 17
+  * 1.8
 * DB
-  * H2
-* Spring Boot Security
-  * 6.0.1
+  * mysql
   
 ### How to run
 Build the application and access http://localhost:8080/ and the system will redirect to login form
